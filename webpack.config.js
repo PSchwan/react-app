@@ -8,7 +8,7 @@ module.exports = {
     output: {
         path: __dirname,
         // filename: './src/resources/static/built/bundle.js'
-        filename: './target /built/bundle.js'
+        filename: './target/built/bundle.js'
     },
     module: {
         rules: [
